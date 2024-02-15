@@ -1,6 +1,6 @@
 # Um pouco sobre mim:
 
-Com 18 anos, estou determinado a entrar no mercado de trabalho na área de tecnologia enquanto continuo meus estudos nesse campo. Possuo experiência com Delphi 10, Figma, PHP, HTML e CSS, e estou sempre aberto a aprender novas habilidades. Tenho um interesse particular na área de testes e pretendo concentrar meus esforços nela no futuro.
+Tenho 18 anos, estou determinado a entrar no mercado de trabalho na área de tecnologia enquanto continuo meus estudos nesse campo. Possuo experiência com Delphi 10, Figma, PHP, HTML e CSS, e estou sempre aberto a aprender novas habilidades. Tenho um interesse particular na área de testes e pretendo concentrar meus esforços nela no futuro.
 
 # Experiência em:
 
